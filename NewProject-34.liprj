@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="sl" xml:lang="sl" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="84bae967-a6f6-4ebd-b366-310663a0e0ae">
+    <ProjectFile Source="Target/New text.docx" Target="Target/New text.docx" />
+</LingoProject>
